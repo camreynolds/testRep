@@ -3,3 +3,4 @@
 * Testing pull.
 * No conflit needed.
 * A new line added.
+* New line
